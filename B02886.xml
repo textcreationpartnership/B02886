@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De l'etat present d'Irlande et des avantages qu'y peuvent trouver les Protestans françois: en une lettre d'un des chapelains de monseigneur le duc d'Ormond viceroi d'Irlande; a un de ses amis en Angleterre.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02886</idno>
+            <idno type="STC">Wing D480</idno>
+            <idno type="STC">ESTC R171700</idno>
+            <idno type="EEBO-CITATION">53299040</idno>
+            <idno type="OCLC">ocm 53299040</idno>
+            <idno type="VID">179811</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179811)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2804:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De l'etat present d'Irlande et des avantages qu'y peuvent trouver les Protestans françois: en une lettre d'un des chapelains de monseigneur le duc d'Ormond viceroi d'Irlande; a un de ses amis en Angleterre.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>chez Benjamin Tooke et Jean Crooke ...,</publisher>
+                  <pubPlace>Imprimé a Dublin :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Ireland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Huguenots --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179811:1" rendition="simple:additions"/>
+            <p>DE L'ETAT PRESENT D'IRLANDE ET DES AVANTAGES Qu'y peuvent trouver les Proteſtans François: EN UNE LETTRE D'UN DES CHAPELAINS DE MONSEIGNEUR Le Duc d'Ormond VICEROI D'IRLANDE; A un de ſes Amis en Angleterre,</p>
+            <p>
+               <hi>IMPRIME</hi> A <hi>Dublin</hi> chez <hi>Benjamin Tooke</hi> et <hi>Jean Crooke,</hi> Imprimeurs du Roy, 1681<g ref="char:punc">▪</g>
+            </p>
+            <p>PAR COMMANDEMENT DE SON EXCELLENCE</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:179811:2"/>
+            <pb n="3" facs="tcp:179811:2"/>
+            <opener>
+               <salute>Monſieur,</salute>
+            </opener>
+            <p>L'Amitié que je vous ay vouée ne me permet pas de me taire, qua<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vous m'ordonnez de parler. Et puis que vous avez envie de ſav<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> quel Païs c'eſt que l'Irlande, et de quelle maniere les Proteſtans <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> France, qui ſe ſauvent de la Perſecution, dont vous étes ſi heureuſem<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> échapé, ſont ici receus; il eſt juſte de vous ſatisfaire: mais à cette c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dition que vous me permettrez de paſſer les bornes ordinaires de <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lettres; pour vous donner ſeulement une idée generale des cho<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> que je ne pourrois vous déduire en détail, ſans faire un volume <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tier.</p>
+            <p>Je vous avouë, Monſieur, que je n'ay pas ſi tôt connu l'Irlande <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> j'ay été ſurpris de voir nos François courir les Mers, pour ſe cherc<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> des Etabliſſemens parmi les Indiens, et les Sauvages de l'Amériq<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> quand ils ont ſi prés d'eux un ſi bon Pais, où le Gouvernement e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> excellent, et les Loix ſi douces; et où il eſt ſi facile de s'établir av<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tageuſement. Sur tout, depuis que la violente Perſécution, que l'on <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> en France aux Proteſtans, les oblige à fuïr d'un lieu en l'autre, ſe<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> l'Ordre de leur Sauveur; je ſuis extrémement étonné d'en voir ſi <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chercher des Retraites dans ce Royaume, qui eſt le plus proche de <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> qui ſont les plus perſecutez; où ils peuvent vivre dans une ſi gra<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>Liberté, et s'aſſeurer d'étre d'autant plus favorablement, receus, qu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> y eſt ſenſiblement touché de leurs maux. Je dis ſi peu; puis qu'il <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a encore qu'environ deux cens perſonnes, qui ſont arrivées depuis <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ou ſix ſemaines. Et je n'en puis attribuër la cauſe qu'à l'ignora<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> où ils ſont, de la bonté de ce Païs, et des Avantages qu'ils y peu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> trouver.</p>
+            <p>Je ſay bien que ce Païs paſſe pour ſauvage et barbare; et je l'ay <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tel auſſi. Mais, Monſieur, il n'eſt pas ſi deſert qu'on ſe le figure <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> quoy qu'il ne ſoit pas auſſi peuplé qu'il ſeroit à ſouhaiter, il n'y a p<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tant point de Terres, mémes les plus incultes, qui ne ſoient baillé<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ferme. Tellement qu'il n'y a point ici de Terres Inconnuës, ni de <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>velles Découvertes à faire. Cependant il eſt d'une étenduë ſi vaſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> le Terroir en eſt ſi bon qu'il peut aiſément recevoir, et maintenir <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fois plus d'Habitans, qu'il n'y en a. C'eſt la ſeule choſe qui y man<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> tant pour y établir toutes ſortes de Manufactures, que pour y m<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <pb n="4" facs="tcp:179811:3"/>cultiver les Terres, qui demeurent en friche, ou faute d'Habitans, ou par l'extréme fainéantiſe des Naturels.</p>
+            <p>Ces Terres qui y ſont à un bas prix, ſont pourtant bonnes et fertiles; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es unes plus, les autres moins, comme en tout autre Païs; et elles <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ont propres aux pâturages, et à toute ſorte de labeur: le Païs étant <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort diverſifié d'agreables Vallées, de Montagnes, de Bois, de Plaines, de Prairies, de Marêts, de Lacs, et de quantité de belles Rivieres; et <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yant dans ſes entrailles des Mines de Fer, et de Plomb; et des Car<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieres de Pierres propres à bâtir, et mémes de Marbre.</p>
+            <p>La Situation en eſt avantageuſe, et tout à ſait commode pour le Commerce: cette Iſle ayant quantité de bons Ports pour les plus grands <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiſſeaux, pluſieurs grandes Rivieres navigeables, et toutes les Mers <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uvertes, tant pour le Nort, que pour l'Angleterre, la France, l'Eſpagne, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> les Indes; comme il ſe peut voir par la Carte.</p>
+            <p>Le Climat en eſt ſi tempéré qu'il n'y fait jamais ni trop de Chaud, ni <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>op de Froid; et que le Bétail y eſt tonte l'année dans les Pâturages. <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t en verité le Bétail, la Volaille, les Bêtes fauves, toute ſorte de Gibier, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poiſon de Mer, de Lac, et de Riviere; les Coquillages, et toutes les <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſes néceſſaires pour la Vie, y ſont dans une abondance ſi merveil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe que l'on peut dire, non ſeulement dans un ſens figuré; mais auſſi ellement, et ſans flaterie, que c'eſt ici une Terre découlante de Lait, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> de Miel. Et ſi je vous marquois le prix de toutes ces choſes, comme <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es ſe vendent dans le Païs (à Dublin elles ſont plus chéres, quoy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>'elles y ſoient preſque toûjours à un prix modéré); je m'aſſeure que <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us en ſeriés tout ſurpris: et il fut le voir, pour le croire.</p>
+            <p>Dailleurs il ne faut pas s'imaginer qu'il n'y ait que des Irlandois, et <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on y vive parmi des Sauvages. Ce Païs (au dire de ceux qui le con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſſent de plus long-tems) eſt ſi changé depuis vint ans, et il change <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ement tous les jours qu'on diroit que c'en eſt un autre. Et quoy qu'il <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, comme par tout ailleurs, des Gens ruſtres et des Brutaux; je ne <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pas qu'on y ſoit moins civiliſé qu'ailleurs. Il y a quantité d'Anglois, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'Ecoſſois; des Cantons, et des Villes mémes, où ils ne veulent point <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>frir d'Irlandois parmi eux. Et ces Irlandois, quoy que nombreux, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>on en excepte quelques Perſonnes conſidérables par leur Qualité, ou <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leur Bien; ne ſont la plûpart que des miſérables, qui vivent dans <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lâcheté honteuſe, et dans une pareſſe étrange.</p>
+            <pb n="5" facs="tcp:179811:3"/>
+            <p> Au reſte. la Religion Proteſtante y a la Juſtice, le Pouvoir, et toute l'Authorité en main; ſoutenue d'une bonne Armée de dix mille hommes, répanduë dans tout le Païs en diverſes Garniſons, et compſée de Soldats Proteſtans: Leurs Officiers, Ceux de Juſtice, et de Police, les Magiſtrats, et les Gouverneurs le ſont auſſi. Et je ne ſâche point de Païs, ou l'on vive plus en repos, et plus à ſon aiſe.</p>
+            <p>Joignez à tout cela, Monſieur, la douceur des Loix, et l'excellence du Gouvernement ſous lequel on vit ici ſous le meilleur des Rois, qui qui ne ſe propoſe de gouverner que par des Loix ſi douces, et qui eſt d'autant plus parfaitement un de ces Dieux, et de ces Enfans du Sou<g ref="char:EOLhyphen"/>verain, dont parle l'Ecriture; qu'étant vrayment Monarque, il ne peut étre Tyran. Ajoûtez encore la véritable Liberté, et la Propriété de Bi<g ref="char:EOLhyphen"/>ens dont joüit ici le Sujet; ſans étre expoſé à ſe voir accablé de Taxes et d'Impôts, ou mangé de Gens de Guerre: Ceux cy ne logeant point chez le Bourgeois; mais ſeulement dans lieux Publics, comme les Ta<g ref="char:EOLhyphen"/>vernes, et les Cabarets à biere: Et n'y ayant pour tous Impôts et Taxes (je ne parle pas des Droits de la Doüane) que les Dixmes à la Cam<g ref="char:EOLhyphen"/>pagne, et les Taxes des Maiſons dans les Villes, pour l'entretien des Miniſtres; et une petite Taxe pour le maintien des Pauvres de chaque Paroiſſe; Vint cinq ſous par an dûs au Roy pour chaque Cheminée, et quelques ſous pour chaque Acre de terre, ſans autre Taille, ni Gabelle.</p>
+            <p>Si vous voulez connoître plus particulierement l'Irlande, ſoûfrez, Mon<g ref="char:EOLhyphen"/>ſieur, que je vous renvoye à l'Hiſtoire Naturelle d'Irlande traduite de l'Anglois de Gérard Boate. Car en voila, ce me ſemble, aſſez ici; pour vous faire avouër que ce Royaume peut bien étre aux Pauvres Perſécu<g ref="char:EOLhyphen"/>tez une Retraite aiſée, et un Aſyle favorable contre les atteintes de l'op<g ref="char:EOLhyphen"/>preſſion: et vous en allez, ſans doute, étre pleinement convaincu par la maniere, dont on les y reçoit.</p>
+            <p>Sa Majeſté Britannique ayant fait publier en faveur deſdits Pro<g ref="char:EOLhyphen"/>teſtans Sa Déclaration du 28 du mois d'Aouſt dernier; par laquelle Elle les reçoit d'une façon ſi royale, ſi pieuſe, et ſi charitable pour Ses Sujets, les traitte comme Ceux qui ont eu le bonheur de naître dans Ses Royaume, et leur ottroye pluſieurs Priviléges et Immunittez <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Monſeigneur le Duc D'Ormond nôtre Viceroi, dont la Piété et le Zéle pour la Religion Proteſtante, la Bonté et la Généroſité pour Ceux de la Nation Francoiſe ſont ſi connuës, n'a pas manqué d'imiter
+<pb n="6" facs="tcp:179811:4" rendition="simple:additions"/>un ſi Grand Exemple. Et comme l'etabliſſement de l'Egliſe Françoiſe de Dublin eſt une preuve ſolide et parlante de ſon Excellente Charité, dont elle eſt l'Ouvrage: auſſi puis je dire que les Aſſeurances de ſa Protection, et les Encouragemens qu'il a fait donner de ſa Part aux Pauvres oppreſſez, dans ce tems de Perſecution, ſont des argumens auſſi ſincéres que convainquans de la tendre compaſſion qu'il a pour eux. Car enfin, Monſieur, ces Aſſeurances n'ont pas été vaines, et elles ſont maintenant ſuivies des effets réels de Ses charitables Soins.</p>
+            <p>A peine quelques Proteſtans François arriverent-ils en cette Ville, le 9. de Novembre dernier, que Son Excellence en fut informée par un de Ses Chapelains François, à qui elle commanda d'avoir grand ſoin d'eux, et de s'enquerir éxactement de leur état, et de leurs néceſſitez: Et elle luy fit donner en méme tems une ſomme de ſes propres Deniers, pour diſtribuër à Ceux qui en auroient le plus de beſoin.</p>
+            <p>Son Excellence étant particulierement informée de leur nombre, et de leur condition; auſſi bien que de la condition, et du nombre de Ceux qui arriverent le 10. du méme mois; et le Conſeil d'Etat et Privé étant aſſemblé, et ſuivant avec ardeur et empreſſement les mouvemens de la Piété et du Zéle de Son Excellence; Il y fut réſolu que tous les Conſeillers d'Etat feroient ſans delai une Contribution charitable pour le ſecours deſdits Proteſtans. Et il fut auſſi ordonné qu'une Lettre ſeroit inceſſamment écrite au Milord Maire de cette Ville; pour luy recom<g ref="char:EOLhyphen"/>mander le ſoin deſdits Proteſtans, et de faire faire une Collecte da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> toute la Ville par des Perſonnes de probité et d'honneur, et de la ma<g ref="char:EOLhyphen"/>niere que vous pouvez voir dans l'Imprimé que je vous en envoye. Où vous remarquerez aiſément deux choſes: L'une que le Conſeil Privé a Subdélégué des Seigneurs dudit Conſeil, avec quelques autres Perſonnes; pour conſiderer, éxaminer, et ordonner tout ce qui ſera néceſſaire tant pour l'Aſſiſtance, que pour l'Etabliſſement dedits Proteſtans; ſelon les <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nformations qui leur en doivent étre données par des Perſonnes dépu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ées pour cela. L'autre choſe eſt que le Milord Maire, et l'Aſſemblée de Ville ont accordé ſans frais ni charges, la Franchiſe de cette Ville, et la Maitriſe dans les Corps des Metiers aux Proteſtans, qui <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſécutez pour la Religion ſont déja arrivez, ou qui viendront d'ici à <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inq ans, pour s'établir en cette Ville; en leur ottroyant auſſi durant <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſdites cin<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> amées, exemtion de toutes les Taxes et ſubſides de Ville,
+<pb n="7" facs="tcp:179811:4" rendition="simple:additions"/>que les Bourgeois ſont, ou peuvent étre obligez de payer en conſé<g ref="char:EOLhyphen"/>quence de leur Franchiſe.</p>
+            <p>Les Seigneurs Subdéleguéz s'étant aſſemblez, et ayant recommandé audit Milord Maire la Collecte dans toute la Ville, elle ſe fait, et avec ſuccez: chacun contribuant volontairement pour une ſi bonne oeuvre. Et comme ils ont auſſi trouvé à propos d'en faire faire Une Genérale par tout le Royaume, afin d'avoir un fonds ſuffiſant, et prêt pour ſe<g ref="char:EOLhyphen"/>courir les Proteſtans, qui ſe réfugieront dans ce Païs, elle a été ordon<g ref="char:EOLhyphen"/>née par Monſeigneur le Viceroi et le Conſeil. Leſdits Seigneurs Sub<g ref="char:EOLhyphen"/>déleguez ont encore réſolu pluſieurs choſes en faveur deſdits Proteſtans; comme d'avoir une Maiſon toute prête, et fournie des choſes néceſſai<g ref="char:EOLhyphen"/>res pour leur Réception; afin qu'à leur arrivée ils ayent un Logis tout préparé, juſques à ce qu'ils ſoient autrement pourvûs, ou établis: et de prendre grand ſoin de leur Subſiſtance, et de leur Etabliſſement; ſoit en leur fourniſſant des Outils pour leur Travail ou Métier, ſoit en leur donnant une Aſſiſtance conforme à leur Condition. Et leſdits Seig<g ref="char:EOLhyphen"/>neurs s'aſſemblans pour ce ſujet une fois la ſemaine, ne faut il pas avouër, Monſieur, qu'on ne ſe peut mieux prendre à encourager, et à ſecourir ces Pauvres Affligez.</p>
+            <p>Mais ce ne ſont pas ſeulement les Seigneurs du Conſeil, qui ſont animez de ce bon zéle; Les autres Seigneurs le ſont auſſi: et pour ob<g ref="char:EOLhyphen"/>liger leſdits Proteſtans à s'établir dans leurs Terres, ils leur donnent pluſieurs encouragemens, ſoit par les Gratifications, ou par les Avances qu'ils leur font. Il ſeroit peut<g ref="char:punc">▪</g>eſtre trop ennuieux de vous les dire par le menu. Je dirai feulement que les Peuples, imitent en cela leurs Su<g ref="char:EOLhyphen"/>périeurs, et les Nobles: chacun s'empreſſant de prendre les Enfans deſdits Proteſtans, pour leur apprendre quelque Métier, ou pour les employer à quelque autre choſe, et leur faire du bien. Tellement que Ceux qui ſont arrivez, et qui avoient beſoin d'étre pourrûs, le ſont déja pour la plus grande partie: et je m'aſſeure que le reſte ne tardera guére à l'étre, de la fa on dont on s'y prend.</p>
+            <p>C'en eſt aſſez pour aujourd'huy, Monſieur; et je ne manquerai pas de vous mander ce qui ſe fera dans la ſuite de cette affaire, ſi vôtre curioſité le déſire. J'ajoûterai ſeulement ces deux mots à l'égard du Droit de Naturalité, que je ne fais point de doute, dans la diſpoſition charitable où ſont les Eſprits, qu'il ne ſoit accordé aux dits Proteſtans,
+<pb n="8" facs="tcp:179811:5"/>à peu ou point de frais, par le prémier Parlement d'Irlande, ou d'An<g ref="char:EOLhyphen"/>gleterre. Et Monſeigneur le Viceroi a déclaré qu'en attendant; Il leur ottroyera, autant que beſoin ſera, des Lettres Patentes de Franc Déni<g ref="char:EOLhyphen"/>zon, comme on les appelle; qui donnent, à peu prés, les mémes Li<g ref="char:EOLhyphen"/>bertés et Priviléges, dont joüiſſent les Naturels.</p>
+            <p>Adieu, Monſieur; ſouvenez-vous toûjours bien que je ſuis tres-ſin<g ref="char:EOLhyphen"/>cérement,</p>
+            <closer>
+               <signed>Vôtre, &amp;c.</signed>
+               <dateline>A Dublin <date>le 15 Decembre, 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
